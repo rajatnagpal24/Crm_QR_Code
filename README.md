@@ -56,16 +56,3 @@ With this solution, every product gets a **scannable QR code**, making inventory
 Huge thanks to the [QRCoder](https://github.com/codebude/QRCoder) team for their amazing open-source library!
 
 ---
-
-## 🤝 Want to Collaborate?
-
-This solution is lightweight, secure, and easy to integrate into existing CRM workflows.  
-**Have a use case in mind or want to implement this in your org? Let’s connect!**
-
----
-
-## 📌 Hashtags
-
-`#MicrosoftDynamics365` `#PowerApps` `#Dataverse` `#QRCoder` `#QRCodeGenerator`  
-`#PluginDevelopment` `#OpenSourceTools` `#LowCodeNoCode` `#InventoryManagement`  
-`#DigitalEfficiency` `#PowerPlatform` `#Automation` `#CRM`
